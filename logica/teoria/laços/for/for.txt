@@ -1,0 +1,8 @@
+Um laço for é repetido até que a condição especificada seja falsa.
+
+for([inicialização]; [condição]; [incremento])
+declaração
+
+inicialização: valor que a variavel de controle é iniciada.
+condição: condição para executar o laço.
+incremento: incremetação da variável de controle.

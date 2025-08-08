@@ -1,0 +1,9 @@
+Forma de repetir várias vezes uma ação de maneira fácil.
+
+
+Existem varios tipos de laços com mecanismos diferentes no quesito de determinação de começo e término do laço,
+mas todos tem a mesma função que é repetir ações, inclusive podendo repetir 0 vezes, porém alguns laços serão mais
+proveitosos para resolver certos tipos de problemas do que outros.
+
+
+Tipos de laços: for, do while, while, label, break, continue, for in, for of.

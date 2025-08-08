@@ -1,0 +1,1 @@
+Serve para percorrer valores de um array.

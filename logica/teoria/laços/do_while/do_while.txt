@@ -1,0 +1,1 @@
+É semelhante ao while mas permite que o bloco seja executado ao menos uma vez porque ele primeiro executa a condição

@@ -1,0 +1,34 @@
+Array é uma variável especial que pode armazenar vários elementos como se fosse uma lista ordenada.
+
+exemplo: const frutas = ["maçã", "banana", "uva"];
+a variavel frutas armazena 3 elementos, então é um array com 3 elementos
+
+Os elementos são indexados, ou seja, as posições são contadas começando do 0, ou seja, maçã não está na posição 1 e sim na posição 0 e assim por diante.
+
+VocÊ pode acessar, alterar, adicionar e remover elementos.
+
+Acessar:
+console.log(frutas[0]) -> maçã
+
+Alterar:
+frutas[1] = "laranja"; -> substitui banana por laranja
+
+Adicionar:
+(no final) -> frutas.push("abacaxi");
+(no inicio) -> frutas.unshift("morango");
+
+Remover:
+(do final) -> frutas.pop() -> remove o ultimo elemento;
+(do inicio) -> frutas.shift() -> remove o primeiro elemento;
+
+Outros métodos:
+
+length -> retorna o tamanho do array
+
+indexOf() -> retorna o índice de um elemento
+
+includes() -> verifica se um valor existe num array
+
+slice() -> retorna parte do array sem alterar o original
+
+splice() -> remove ou substitui elementos (altera o original)
